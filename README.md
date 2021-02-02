@@ -1,1 +1,3 @@
 # Attendance-Alarm
+
+This is just a fun project. Here, in online class if the captions are on then using Pillow the code continuously grabs the photo of caption text. After grabbing the text, Tesseract converts the text in image to python string. We have already stored keywords that are generally used while taking attendance if any of those keywords are present in image then a beep alarm is beeped. This gives alarm to user that attendance is being taken. In this way, we can do our own work during online class and can keep a track of whenever attendance is being taken. To be true this project is not that much useful....this is just a fun project I tried :P
